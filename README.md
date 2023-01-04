@@ -325,3 +325,7 @@ We will discount the scores for the parties with the high code similarity by the
 Penalty for the security leaks abuse
 If you (apparently) find any security leaks, exploit them at your own risk of losing homework scores:)
 We set your Homework 3 score to 0 if we detect any sign of security leaks abuse.
+
+
+
+TO GET THE DATA FOR THE FINAL PROJECT ASK ME VIA EMAIL: sobolevdaniil74@gmail.com
